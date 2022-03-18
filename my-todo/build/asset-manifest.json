@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoList-exercice2/static/css/main.56e6221f.css",
+    "main.js": "/TodoList-exercice2/static/js/main.3a5899d8.js",
+    "static/js/787.ee3c4dbe.chunk.js": "/TodoList-exercice2/static/js/787.ee3c4dbe.chunk.js",
+    "index.html": "/TodoList-exercice2/index.html",
+    "main.56e6221f.css.map": "/TodoList-exercice2/static/css/main.56e6221f.css.map",
+    "main.3a5899d8.js.map": "/TodoList-exercice2/static/js/main.3a5899d8.js.map",
+    "787.ee3c4dbe.chunk.js.map": "/TodoList-exercice2/static/js/787.ee3c4dbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.3a5899d8.js"
+  ]
+}
